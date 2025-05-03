@@ -12,8 +12,8 @@ A simple and interactive CLI tool for quickly bootstrapping new projects from re
 
 ## Available Templates
 
-- React empty
-- React by Jez-er
+- [React empty](https://github.com/Jez-er/astral-templates/tree/main/react-empty)
+- [React by Jez-er](https://github.com/Jez-er/astral-templates/tree/main/react-jez-er)
 
 ## Installation
 
